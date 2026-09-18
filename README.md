@@ -5,14 +5,13 @@
 This repository is a chapter-by-chapter Markdown import of the Spark Connect Specification 1.0 working draft. The split makes reviews smaller, line-based, and easy to track through pull requests.
 
 - **Reference implementation:** [Apache Spark 4.2.0 at commit `32f7299601108917fb01920a54e084595b7b3bf8`](https://github.com/apache/spark/commit/32f7299601108917fb01920a54e084595b7b3bf8)
-- **Original full draft:** [Google Doc](https://docs.google.com/document/d/1FFBrD__93Pdznj4roy2UrDpoRzMQnhjvfxrtChzXPpg/edit)
 - **Review plan:** [REVIEWING.md](REVIEWING.md)
 - **TCK repository:** [spark-connect-tck](https://github.com/zhengruifeng/spark-connect-tck)
 - **License:** [Apache License 2.0](LICENSE)
 
 ## Status and authority
 
-The initial Markdown import preserves the v0.49 Google Doc content and changes only its layout and Markdown formatting. The Google Doc records the provenance of this import; an unintended difference is an import defect. Future Apache publication and authority remain subject to the SPIP and PMC process described by the draft.
+The initial Markdown import preserves the v0.49 source draft and changes only its layout and Markdown formatting. An unintended difference from that import is a defect. Future Apache publication and authority remain subject to the SPIP and PMC process described by the draft.
 
 The proposed conformance authorities are defined in [Chapter 6](spec/06-compliance.md), not by this README:
 

@@ -1,6 +1,6 @@
 # Reviewing the Spark Connect Specification
 
-This guide is informative. It organizes review work but adds no conformance requirements. The milestones are adapted from the [v0.49 Short Review Draft](https://docs.google.com/document/d/16glco6U_6kkfjsG7rnbtHpZDUefN6KdSclN-UGV0z2Y/edit).
+This guide is informative. It organizes the v0.49 draft into bounded reviews but adds no conformance requirements.
 
 > **Critical path:** The canonical `sc-1.0-p1.json` bundle has not been generated or published, and its publication commit and SHA-256 are still unset. Reviewers can assess the proposed membership, semantics, and TCK design in this draft, but cannot verify any required row or run a self-contained conformance review until that bundle lands. Bundle generation and publication therefore control the path to Final status.
 
